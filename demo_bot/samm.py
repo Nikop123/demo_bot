@@ -16,7 +16,7 @@ db = web.database(
     port= 3306)
 
 #Samm17_bot 
-token = ''
+token = '679794091:AAFJkBcwFvKTzXm_6Rr7ytCK8_vTp_6qKXA'
 
 # Define a few command handlers. These usually take the two arguments bot and
 # update. Error handlers also receive the raised TelegramError object in error.
